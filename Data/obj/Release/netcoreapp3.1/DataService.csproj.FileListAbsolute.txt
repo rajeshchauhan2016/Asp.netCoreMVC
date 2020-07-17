@@ -1,0 +1,9 @@
+E:\dev\DempApp\DataService\bin\Release\netcoreapp3.1\DataService.deps.json
+E:\dev\DempApp\DataService\bin\Release\netcoreapp3.1\DataService.dll
+E:\dev\DempApp\DataService\bin\Release\netcoreapp3.1\DataService.pdb
+E:\dev\DempApp\DataService\obj\Release\netcoreapp3.1\DataService.csprojAssemblyReference.cache
+E:\dev\DempApp\DataService\obj\Release\netcoreapp3.1\DataService.AssemblyInfoInputs.cache
+E:\dev\DempApp\DataService\obj\Release\netcoreapp3.1\DataService.AssemblyInfo.cs
+E:\dev\DempApp\DataService\obj\Release\netcoreapp3.1\DataService.csproj.CoreCompileInputs.cache
+E:\dev\DempApp\DataService\obj\Release\netcoreapp3.1\DataService.dll
+E:\dev\DempApp\DataService\obj\Release\netcoreapp3.1\DataService.pdb

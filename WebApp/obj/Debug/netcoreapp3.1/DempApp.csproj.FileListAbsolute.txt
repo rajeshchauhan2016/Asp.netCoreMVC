@@ -1,0 +1,298 @@
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\DataService.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\RepositoryService.dll
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.csprojAssemblyReference.cache
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.RazorAssemblyInfo.cache
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.RazorAssemblyInfo.cs
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.AssemblyInfoInputs.cache
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.AssemblyInfo.cs
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.TagHelpers.input.cache
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.TagHelpers.output.cache
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.RazorCoreGenerate.cache
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.RazorTargetAssemblyInfo.cache
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.RazorTargetAssemblyInfo.cs
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\DempApp.exe
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\DempApp.deps.json
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\DempApp.runtimeconfig.json
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\DempApp.runtimeconfig.dev.json
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\DempApp.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\DempApp.pdb
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\DempApp.Views.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\DempApp.Views.pdb
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\RepositoryService.pdb
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\DataService.pdb
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.Views.pdb
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.csproj.CopyComplete
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\staticwebassets\DempApp.StaticWebAssets.Manifest.cache
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\staticwebassets\DempApp.StaticWebAssets.xml
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.dll
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.pdb
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.genruntimeconfig.cache
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.csproj.CoreCompileInputs.cache
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\AddProduct.cshtml.g.cs
+E:\Rajesh\New folder\DempApp\DempApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\DempApp.exe
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\DempApp.deps.json
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\DempApp.runtimeconfig.json
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\DempApp.runtimeconfig.dev.json
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\DempApp.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\DempApp.pdb
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\DempApp.Views.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\DempApp.Views.pdb
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\DataService.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\RepositoryService.dll
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\RepositoryService.pdb
+E:\dev\DempApp\DempApp\bin\Debug\netcoreapp3.1\DataService.pdb
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.csprojAssemblyReference.cache
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.AssemblyInfoInputs.cache
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.AssemblyInfo.cs
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.csproj.CoreCompileInputs.cache
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.MvcApplicationPartsAssemblyInfo.cache
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.RazorAssemblyInfo.cache
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.RazorAssemblyInfo.cs
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.TagHelpers.input.cache
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.TagHelpers.output.cache
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.RazorCoreGenerate.cache
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\AddProduct.cshtml.g.cs
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.RazorTargetAssemblyInfo.cache
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.RazorTargetAssemblyInfo.cs
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.Views.pdb
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.csproj.CopyComplete
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\staticwebassets\DempApp.StaticWebAssets.Manifest.cache
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\staticwebassets\DempApp.StaticWebAssets.xml
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.dll
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.pdb
+E:\dev\DempApp\DempApp\obj\Debug\netcoreapp3.1\DempApp.genruntimeconfig.cache

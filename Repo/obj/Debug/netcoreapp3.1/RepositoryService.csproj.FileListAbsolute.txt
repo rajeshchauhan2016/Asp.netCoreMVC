@@ -1,0 +1,24 @@
+E:\Rajesh\New folder\DempApp\RepositoryService\bin\Debug\netcoreapp3.1\RepositoryService.deps.json
+E:\Rajesh\New folder\DempApp\RepositoryService\bin\Debug\netcoreapp3.1\RepositoryService.dll
+E:\Rajesh\New folder\DempApp\RepositoryService\bin\Debug\netcoreapp3.1\RepositoryService.pdb
+E:\Rajesh\New folder\DempApp\RepositoryService\bin\Debug\netcoreapp3.1\DataService.dll
+E:\Rajesh\New folder\DempApp\RepositoryService\bin\Debug\netcoreapp3.1\DataService.pdb
+E:\Rajesh\New folder\DempApp\RepositoryService\obj\Debug\netcoreapp3.1\RepositoryService.csprojAssemblyReference.cache
+E:\Rajesh\New folder\DempApp\RepositoryService\obj\Debug\netcoreapp3.1\RepositoryService.csproj.CoreCompileInputs.cache
+E:\Rajesh\New folder\DempApp\RepositoryService\obj\Debug\netcoreapp3.1\RepositoryService.AssemblyInfoInputs.cache
+E:\Rajesh\New folder\DempApp\RepositoryService\obj\Debug\netcoreapp3.1\RepositoryService.AssemblyInfo.cs
+E:\Rajesh\New folder\DempApp\RepositoryService\obj\Debug\netcoreapp3.1\RepositoryService.csproj.CopyComplete
+E:\Rajesh\New folder\DempApp\RepositoryService\obj\Debug\netcoreapp3.1\RepositoryService.dll
+E:\Rajesh\New folder\DempApp\RepositoryService\obj\Debug\netcoreapp3.1\RepositoryService.pdb
+E:\dev\DempApp\RepositoryService\bin\Debug\netcoreapp3.1\RepositoryService.deps.json
+E:\dev\DempApp\RepositoryService\bin\Debug\netcoreapp3.1\RepositoryService.dll
+E:\dev\DempApp\RepositoryService\bin\Debug\netcoreapp3.1\RepositoryService.pdb
+E:\dev\DempApp\RepositoryService\bin\Debug\netcoreapp3.1\DataService.dll
+E:\dev\DempApp\RepositoryService\bin\Debug\netcoreapp3.1\DataService.pdb
+E:\dev\DempApp\RepositoryService\obj\Debug\netcoreapp3.1\RepositoryService.csprojAssemblyReference.cache
+E:\dev\DempApp\RepositoryService\obj\Debug\netcoreapp3.1\RepositoryService.AssemblyInfoInputs.cache
+E:\dev\DempApp\RepositoryService\obj\Debug\netcoreapp3.1\RepositoryService.AssemblyInfo.cs
+E:\dev\DempApp\RepositoryService\obj\Debug\netcoreapp3.1\RepositoryService.csproj.CoreCompileInputs.cache
+E:\dev\DempApp\RepositoryService\obj\Debug\netcoreapp3.1\RepositoryService.csproj.CopyComplete
+E:\dev\DempApp\RepositoryService\obj\Debug\netcoreapp3.1\RepositoryService.dll
+E:\dev\DempApp\RepositoryService\obj\Debug\netcoreapp3.1\RepositoryService.pdb
